@@ -1,29 +1,29 @@
 # Site settings
-title: 跳跳龙的博客
-SEOTitle: 跳跳龙的博客
+title: 墨晴的博客
+SEOTitle: 墨晴的博客
 header-img: img/post-bg-desk.jpg
-email: 992349839@qq.com
-description: "一个分享生活和技术的地方"
-keyword: "Web安全，移动安全，编程"
-url: "http://tiaotiaolong.github.io"          # your host, for absolute URL
+email: 623602724@qq.com
+description: "身体和灵魂都在路上"
+keyword: "运维、互联网、编程、烹饪、旅行"
+url: "http://mushroom5.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/tiaotiaolong/tiaotiaolong.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "不念过去，不畏将来"
-sidebar-avatar: /img/ttl.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "自由、独立人格"
+sidebar-avatar: /img/moqing.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     www.tiaotiaolong.net
-github_username:    tiaotiaolong
-facebook_username:  100014534554175
-weibo_username:     5110379766
-twitter_username:   tiaotiao_long
+#zhihu_username:     www.tiaotiaolong.net
+github_username:    mushroom5
+#facebook_username:  100014534554175
+#weibo_username:     
+#twitter_username:   tiaotiao_long
 
 
 
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 935fa207046fd3e569ee                            #生成的clientID
   clientSecret: b5c0e6c3772b1f730febe55d84bb0e1de6e05b95   #生成的clientSecret
-  repo: tiaotiaolong.github.io    #仓库名称
-  owner: tiaotiaolong    #github用户名
-  admin: tiaotiaolong
+  repo: mushroom5.github.io    #仓库名称
+  owner: mushroom5    #github用户名
+  admin: mushroom5
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
